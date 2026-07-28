@@ -51,8 +51,8 @@ End-to-end data analytics project analyzing **180,519 supply chain transaction r
 
 ## Connect With Me
 
-- **GitHub:** @EmmanuelThomas2004
-- **LinkedIn:**linkedin.com/in/emmanuel-thomas27
+- **GitHub:** [EmmanuelThomas2004](https://github.com/EmmanuelThomas2004)
+- **LinkedIn:** [Emmanuel Thomas](https://www.linkedin.com/in/emmanuel-thomas27)
 
 ---
 
