@@ -1,59 +1,93 @@
-# Hi, I'm Emmanuel Thomas
+<div align="center">
 
-### Data Analyst | SQL | Python | Power BI | Excel | Snowflake
+# Hi, I'm Emmanuel Thomas 👋
 
-I'm a B.Tech Electronics and Computer Engineering student focused on **Data Analytics and Business Intelligence**.
+### Data Analyst • Business Intelligence • Turning Data into Insights
 
-I enjoy transforming raw datasets into meaningful business insights through data cleaning, SQL analysis, cloud data warehousing, and interactive dashboards.
+<br>
 
-## Technical Skills
+**SQL • Python • Power BI • Excel • Snowflake**
 
-- **SQL:** Joins, CTEs, Subqueries, Window Functions, Aggregations
-- **Python:** Pandas, NumPy, Data Cleaning, Exploratory Data Analysis
-- **Power BI:** Data Visualization, Interactive Dashboards, KPI Reporting
-- **Excel:** PivotTables, Power Query, Lookup Functions, Data Analysis
-- **Snowflake:** Data Warehousing, Data Loading, SQL Views, Analytical Queries
-
-## Featured Project
-
-### Global Sales & Supply Chain Analytics
-
-End-to-end data analytics project analyzing **180,519 supply chain transaction records** using Python, Snowflake, SQL, Power BI, and Excel.
-
-**Project Workflow**
-
-`Raw Data → Python Cleaning → Snowflake → SQL Analysis → Power BI → Business Insights`
-
-**Key Areas Analyzed**
-
-- Sales & Profitability
-- Customer & Market Performance
-- Supply Chain & Delivery Performance
-- Late Delivery & Shipping Analysis
-- Strategic Business Insights
-
-[View Project Repository](https://github.com/EmmanuelThomas2004/Global-Sales-Supply-Chain-Analytics)
-
-## Other Projects
-
-- **Airline Satisfaction Analysis** — Power BI analysis of 104K+ passenger records
-- **Olympics Analytics Dashboard** — Analysis of 269K+ athlete records
-- **Employee Performance Analysis** — Python & Pandas data analysis
-- **E-Commerce SQL Business Case Study** — SQL-based business analysis
-- **SQL Business Case Studies** — Collection of practical SQL analysis projects
-
-## Currently Developing
-
-- Advanced SQL for Data Analytics
-- Python/Pandas for Data Analysis
-- Snowflake Cloud Data Warehousing
-- Business-focused dashboard development
-
-## Connect With Me
-
-- **GitHub:** [EmmanuelThomas2004](https://github.com/EmmanuelThomas2004)
-- **LinkedIn:** [Emmanuel Thomas](https://www.linkedin.com/in/emmanuel-thomas27)
+</div>
 
 ---
 
-*Open to entry-level Data Analyst and Business Analyst opportunities.*
+## 👨‍💻 About Me
+
+I'm a **B.Tech Electronics and Computer Engineering student** focused on **Data Analytics and Business Intelligence**.
+
+I enjoy transforming raw datasets into meaningful insights through **data cleaning, SQL analysis, data modeling, and interactive dashboards**.
+
+My focus is on building practical, business-oriented analytical skills through **hands-on projects, structured problem-solving, and continuous learning**.
+
+> **Raw Data → Analysis → Insights → Better Decisions**
+
+---
+
+# 🛠️ Technical Skills
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Data Analysis & Programming
+
+**SQL**
+- Joins & Relationships
+- CTEs & Subqueries
+- Window Functions
+- Aggregations & Analytical Queries
+
+**Python**
+- Pandas
+- Data Cleaning & Transformation
+- Exploratory Data Analysis
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 Business Intelligence & Data Tools
+
+**Power BI**
+- DAX Measures & Calculated Columns
+- Data Modeling & Table Relationships
+- Interactive Dashboards & Data Visualization
+- KPI Reporting & Business Insights
+
+**Excel**
+- PivotTables & Power Query
+- Lookup Functions
+- Data Analysis
+
+**Snowflake**
+- Data Warehousing & Data Loading
+- SQL Views & Analytical Queries
+
+</td>
+</tr>
+</table>
+
+---
+
+# ⭐ Featured Project
+
+## 🌍 Global Sales & Supply Chain Analytics
+
+> **End-to-End Data Analytics | 180,519 Transaction Records | Multi-Tool Analytics Workflow**
+
+An end-to-end data analytics project analyzing **global sales and supply chain performance** using Python, Snowflake, SQL, Power BI, and Excel.
+
+### 🔄 Project Workflow
+
+```text
+Raw Data
+    ↓
+Python Data Cleaning
+    ↓
+Snowflake Data Warehouse
+    ↓
+SQL Analysis
+    ↓
+Power BI Visualization
+    ↓
+Business Insights
